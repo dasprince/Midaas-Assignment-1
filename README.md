@@ -1,2 +1,3 @@
 # midaasAssignment1
-this is the assignment to generate prime numbers using different methods on users input
+robust prime number generator written in python that gives all prime numbers in the range between two numbers provided by the user 
+user is offered different prime number generation strategies with different performance optimizations.
